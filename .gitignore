@@ -1,0 +1,7 @@
+#Ignore Hybris Folder
+/data/
+/log/
+/roles/
+/temp/
+/bin/platform/
+/bin/modules/
